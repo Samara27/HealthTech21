@@ -1,0 +1,63 @@
+body{
+  background: rgb(245,245,245);
+  color: black;
+  font-size: 20px;
+  font-family: Times New Romans;
+}
+h1{
+  font-family: Times New Romans;
+  color: Black;
+  font-weight: lighter;
+  font-size: 25px;
+}
+h2 {
+  font-family: Times New Romans;
+  color: black;
+  font-weight: lighter;
+  font-size: 15px;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+} 
+
+#banner{
+  text-align: center;
+  background-image: url(https://unsplash.com/photos/74ytEYcOJDc);
+  background-size: cover;
+  padding: 150px;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+}
+#banner h1 {
+  color: white;
+  font-size: 50px;
+}
+#banner p {
+  color: white;
+  opacity: 0.8;
+  font-size: 30px;
+  font-weight: lighter;
+}
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+}
+.card{
+  padding: 50px;
+  font-weight: lighter;
+} 
+
+#footer a {
+  color: lightgrey;
+  font-size: 15px;
+}
+#footer a:hover {
+  color: white;
+} 
+
+class="btn btn-primary"
